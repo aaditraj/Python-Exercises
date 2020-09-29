@@ -1,6 +1,0 @@
-questions = input()
-numbers = input()
-points = list(map(int, numbers.split()))
-smallest = min(points)
-points.remove(smallest)
-print(sum(points))
