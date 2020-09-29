@@ -1,0 +1,6 @@
+numbers = input()
+points = list(map(int, numbers.split()))
+largest = max(points)
+points.remove(largest)
+largest2 = max(points)
+print(largest + largest2)
