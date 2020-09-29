@@ -1,0 +1,9 @@
+Brown 84 
+Arnold 80 
+Cocher 77 
+Cocher 100
+Brown 99
+Duncan 68
+Cocher 78
+Cocher 88
+Duncan 89
